@@ -204,6 +204,9 @@
              font-size: 12px;
              width: 370px;
          }
+          .pre {
+             width: 370px;
+         }
      }
      
      @media print {
